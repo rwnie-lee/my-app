@@ -29,11 +29,6 @@ export default async function ProjectPage({
       <p className="mt-6 text-lg text-gray-400">
         This is a dynamically generated project page.
       </p>
-      <img
-        src="/project.png"
-        className="mt-6 rounded-xl"
-        alt="project preview"
-        />
     </main>
   );
 }
